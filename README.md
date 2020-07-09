@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m currently working on some exciting NLP/ML projects
 
 <!--
 **arezae/arezae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
