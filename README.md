@@ -1,5 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently working on some exciting NLP/ML projects
+🔭 I’m currently working on some exciting NLP/ML projects. 
+
+🤔 Remote work: I'm looking for few ML/NLP engineer to join my team
+
 
 <!--
 **arezae/arezae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
