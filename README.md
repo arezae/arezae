@@ -1,10 +1,4 @@
-### Hi there 👋
-🔭 I’m currently working on some exciting NLP/ML projects. 
-
-🤔 Remote work: 
-- ML/NLP engineer 
-- Frontend developer (all levels)
-
+Discovering new area in Machine Learning
 
 
 <!--
